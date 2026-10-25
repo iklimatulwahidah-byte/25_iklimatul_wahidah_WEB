@@ -1,0 +1,23 @@
+h2{
+    color: aquamarine;
+    font-family: Trebuchet MS;
+    text-align: center;
+}
+.kotak{
+    padding: 50px;
+    width: 100px;
+    color: rgb(105, 105, 201);
+    margin: 10px;
+    background: rgb rgb(119, 70, 141);
+}
+#kotak{
+    width: 400px;
+    color: rgb(92, 74, 52);
+    background: rgb(78, 78, 126);
+    padding: 50px;
+}
+body{
+    background: url('img/treei.jpg'), url(img/fieldi.jpg);
+    background-repeat: no-repeat,repeat;
+    color: aliceblue;
+}
